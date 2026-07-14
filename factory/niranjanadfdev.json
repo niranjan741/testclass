@@ -1,0 +1,15 @@
+{
+	"name": "niranjanadfdev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b7e8273-1d26-4161-8e13-cca09ad57c13",
+		"tenantId": "9fdea746-3a5b-4b52-a7b7-de70655e6235"
+	}
+}
